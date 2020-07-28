@@ -1,8 +1,7 @@
 # Raw data depository for Yongli_Shan_et_al_Neuron2020
 
 This repository contains raw data that was used in the research paper: <br>
-Yongli Shan, John H. Abel, Yan Li, Mariko Izumo, Kimberly H. Cox, Byeongha Jeong, Seung-Hee Yoo, David P. Olson, Francis J. Doyle III, Joseph S. Takahashi. (2020) A Color-Switching
-Mouse Line Reveals an Essential Role for AVP Neurons in Circadian Synchrony within the Suprachiasmatic Nucleus. Neuron
+Yongli Shan, John H. Abel, Yan Li, Mariko Izumo, Kimberly H. Cox, Byeongha Jeong, Seung-Hee Yoo, David P. Olson, Francis J. Doyle III, Joseph S. Takahashi. (2020) Dual-Color Single-Cell Imaging of the Suprachiasmatic Nucleus Reveals a Circadian Role in Network Synchrony. Neuron.
 
 ## Part1: SCN Imaging Data:
 Includes five folders for the five genotypes analyzed in the article: VIP-Cre, VIP-<em>Bmal1<sup>-/-</sup></em>, AVP-Cre, AVP-<em>Bmal1<sup>-/-</sup></em> and VIP/AVP-<em>Bmal1<sup>-/-</sup></em>. And every subfolder contains imaging results of each SCN imaging experiment.
@@ -12,7 +11,7 @@ A dataset includes 14 files of three types:
 |----------------------|------------------------|
 |`_signal.csv`|Bioluminescence signals of single cells|
 |`_XY.csv`|X,Y locations of single cells |
-|`_polygon.csv`|Contours of SCN a slice, left and right lobe|
+|`_polygon.csv`|Contours of an SCN slice, left and right lobe|
 
 
 
